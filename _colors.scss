@@ -1,0 +1,165 @@
+// Generated Colors from Supernova. Do not edit manually.
+$action-link-inverted-active: #ccad85 !default;
+$action-link-inverted-default: #ffd8a7 !default;
+$action-link-inverted-disabled: #d4d4d4 !default;
+$action-link-inverted-hover: #e5c296 !default;
+$action-link-inverted-visited: #8ed9be !default;
+$action-link-primary-active: #22527a !default;
+$action-link-primary-default: #3f96e0 !default;
+$action-link-primary-disabled: #d4d4d4 !default;
+$action-link-primary-hover: #3174ad !default;
+$action-link-primary-visited: #7dbfa7 !default;
+$action-link-secondary-active: #22527a !default;
+$action-link-secondary-default: #343434 !default;
+$action-link-secondary-disabled: #d4d4d4 !default;
+$action-link-secondary-hover: #3f96e0 !default;
+$action-link-secondary-visited: #7dbfa7 !default;
+$action-primary-active: #22527a !default;
+$action-primary-default: #3f96e0 !default;
+$action-primary-disabled: #e9e9e9 !default;
+$action-primary-hover: #3174ad !default;
+$action-secondary-active: #d4d4d4 !default;
+$action-secondary-default: #f2f2f2 !default;
+$action-secondary-disabled: #f3f3f3 !default;
+$action-secondary-hover: #dbdbdb !default;
+$action-selected-active: #22527a !default;
+$action-selected-default: #3f96e0 !default;
+$action-selected-disabled: #e9e9e9 !default;
+$action-selected-hover: #3174ad !default;
+$action-unselected-active: #d4d4d4 !default;
+$action-unselected-default: #e9e9e9 !default;
+$action-unselected-disabled: #e9e9e9 !default;
+$action-unselected-hover: #dbdbdb !default;
+$background-backdrop: #0b1c2199 !default;
+$background-basic: #fff !default;
+$background-cover: #f7f7f7 !default;
+$background-inverted: #343434 !default;
+$background-inverted-cover: #262626 !default;
+$background-warm: #f6f4ef !default;
+$border-focus-default: #61b3ff !default;
+$border-primary-active: #d4d4d4 !default;
+$border-primary-default: #e9e9e9 !default;
+$border-primary-disabled: #f3f3f3 !default;
+$border-primary-hover: #dbdbdb !default;
+$brand-primary: #b26ecd !default;
+$brand-secondary: #ffd8a7 !default;
+$brand-tertiary: #343434 !default;
+$emotion-danger-active: #851f36 !default;
+$emotion-danger-background: #fcf1f4 !default;
+$emotion-danger-default: #ea375f !default;
+$emotion-danger-disabled: #e9e9e9 !default;
+$emotion-danger-hover: #b82b4b !default;
+$emotion-informative-active: #20526e !default;
+$emotion-informative-background: #ebf3f8 !default;
+$emotion-informative-default: #3588b5 !default;
+$emotion-informative-disabled: #e9e9e9 !default;
+$emotion-informative-hover: #2c7096 !default;
+$emotion-success-active: #175835 !default;
+$emotion-success-background: #f6ffed !default;
+$emotion-success-default: #429a4b !default;
+$emotion-success-disabled: #e9e9e9 !default;
+$emotion-success-hover: #1d7435 !default;
+$emotion-warning-active: #c29132 !default;
+$emotion-warning-background: #f8f2e4 !default;
+$emotion-warning-default: #f1d07c !default;
+$emotion-warning-disabled: #e9e9e9 !default;
+$emotion-warning-hover: #dfbb5f !default;
+$text-primary-default: #343434 !default;
+$text-primary-disabled: #c4c4c4 !default;
+$text-primary-inverted-default: #fff !default;
+$text-primary-inverted-disabled: #737373 !default;
+$text-secondary-default: #90a2a7 !default;
+$text-secondary-disabled: #c4c4c4 !default;
+$text-secondary-inverted-default: #c4c4c4 !default;
+$text-secondary-inverted-disabled: #737373 !default;
+
+$action-colors: (
+    link-inverted-active: $action-link-inverted-active,
+    link-inverted-default: $action-link-inverted-default,
+    link-inverted-disabled: $action-link-inverted-disabled,
+    link-inverted-hover: $action-link-inverted-hover,
+    link-inverted-visited: $action-link-inverted-visited,
+    link-primary-active: $action-link-primary-active,
+    link-primary-default: $action-link-primary-default,
+    link-primary-disabled: $action-link-primary-disabled,
+    link-primary-hover: $action-link-primary-hover,
+    link-primary-visited: $action-link-primary-visited,
+    link-secondary-active: $action-link-secondary-active,
+    link-secondary-default: $action-link-secondary-default,
+    link-secondary-disabled: $action-link-secondary-disabled,
+    link-secondary-hover: $action-link-secondary-hover,
+    link-secondary-visited: $action-link-secondary-visited,
+    primary-active: $action-primary-active,
+    primary-default: $action-primary-default,
+    primary-disabled: $action-primary-disabled,
+    primary-hover: $action-primary-hover,
+    secondary-active: $action-secondary-active,
+    secondary-default: $action-secondary-default,
+    secondary-disabled: $action-secondary-disabled,
+    secondary-hover: $action-secondary-hover,
+    selected-active: $action-selected-active,
+    selected-default: $action-selected-default,
+    selected-disabled: $action-selected-disabled,
+    selected-hover: $action-selected-hover,
+    unselected-active: $action-unselected-active,
+    unselected-default: $action-unselected-default,
+    unselected-disabled: $action-unselected-disabled,
+    unselected-hover: $action-unselected-hover,
+) !default;
+
+$background-colors: (
+    backdrop: $background-backdrop,
+    basic: $background-basic,
+    cover: $background-cover,
+    inverted: $background-inverted,
+    inverted-cover: $background-inverted-cover,
+    warm: $background-warm,
+) !default;
+
+$border-colors: (
+    focus-default: $border-focus-default,
+    primary-active: $border-primary-active,
+    primary-default: $border-primary-default,
+    primary-disabled: $border-primary-disabled,
+    primary-hover: $border-primary-hover,
+) !default;
+
+$brand-colors: (
+    primary: $brand-primary,
+    secondary: $brand-secondary,
+    tertiary: $brand-tertiary,
+) !default;
+
+$emotion-colors: (
+    danger-active: $emotion-danger-active,
+    danger-background: $emotion-danger-background,
+    danger-default: $emotion-danger-default,
+    danger-disabled: $emotion-danger-disabled,
+    danger-hover: $emotion-danger-hover,
+    informative-active: $emotion-informative-active,
+    informative-background: $emotion-informative-background,
+    informative-default: $emotion-informative-default,
+    informative-disabled: $emotion-informative-disabled,
+    informative-hover: $emotion-informative-hover,
+    success-active: $emotion-success-active,
+    success-background: $emotion-success-background,
+    success-default: $emotion-success-default,
+    success-disabled: $emotion-success-disabled,
+    success-hover: $emotion-success-hover,
+    warning-active: $emotion-warning-active,
+    warning-background: $emotion-warning-background,
+    warning-default: $emotion-warning-default,
+    warning-disabled: $emotion-warning-disabled,
+    warning-hover: $emotion-warning-hover,
+) !default;
+
+$text-colors: (
+    primary-default: $text-primary-default,
+    primary-disabled: $text-primary-disabled,
+    primary-inverted-default: $text-primary-inverted-default,
+    primary-inverted-disabled: $text-primary-inverted-disabled,
+    secondary-default: $text-secondary-default,
+    secondary-disabled: $text-secondary-disabled,
+    secondary-inverted-default: $text-secondary-inverted-default,
+    secondary-inverted-disabled: $text-secondary-inverted-disabled,
+) !default;
