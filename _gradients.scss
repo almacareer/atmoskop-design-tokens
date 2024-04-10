@@ -1,0 +1,8 @@
+// Generated Gradients from Supernova. Do not edit manually.
+$brand-gradient: linear-gradient(var(--angle, 270deg), #fbe1ae 0%, #ffdfb7 60%, #b46ed3 90%, #c16bea 100%) !default;
+$brand-gradient-reverse: linear-gradient(var(--angle, 270deg), #c16bea 0%, #b46ed3 20%, #ffdfb7 70%, #fbe1ae 100%) !default;
+
+$brands: (
+    gradient: $brand-gradient,
+    gradient-reverse: $brand-gradient-reverse,
+) !default;
