@@ -1,11 +1,14 @@
 {
   "name": "atmoskop-design-tokens",
   "version": "1.0.0",
-  "description": "Atmoskop tokens for spirit design system exported from supernova ",
+  "description": "Atmoskop tokens for spirit design system exported from supernova",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/almacareer/atmoskop-design-tokens.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "David Chodur",
-  "license": "MIT",
+  "license": "MIT"
 }
