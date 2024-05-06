@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.2 (2024-05-06)
+
+- Synchronize gradients, radius and shadows
 
 ## 1.0.1 (2024-04-18)
 
