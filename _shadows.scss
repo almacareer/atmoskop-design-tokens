@@ -1,2 +1,10 @@
 // Generated Shadows from Supernova. Do not edit manually.
+$shadow-100: 0 2px 8px 0 #0000001a !default;
+$shadow-200: 0 12px 24px 0 #0000000f !default;
+$shadow-300: 0 8px 24px 0 #00000024 !default;
 
+$shadows: (
+    100: $shadow-100,
+    200: $shadow-200,
+    300: $shadow-300,
+) !default;
