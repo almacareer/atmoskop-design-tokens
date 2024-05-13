@@ -14,6 +14,10 @@ $space-1100: 56px !default;
 $space-1200: 64px !default;
 $space-1300: 80px !default;
 $space-1400: 120px !default;
+$space-1500: 160px !default;
+$space-1600: 180px !default;
+$space-1700: 200px !default;
+$space-1800: 220px !default;
 
 $spaces: (
     0: $space-0,
@@ -31,4 +35,8 @@ $spaces: (
     1200: $space-1200,
     1300: $space-1300,
     1400: $space-1400,
+    1500: $space-1500,
+    1600: $space-1600,
+    1700: $space-1700,
+    1800: $space-1800,
 ) !default;
